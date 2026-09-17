@@ -1,0 +1,8 @@
+{
+  "name": "meus-botoes",
+  "version": "1.0.0",
+  "main": "Button.jsx",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}
